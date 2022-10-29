@@ -1,4 +1,4 @@
 class Converter {
-void status () {
-}
+
+
 }
